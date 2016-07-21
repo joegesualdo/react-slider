@@ -231,7 +231,7 @@ class ReactSlider extends React.Component {
 
   render() {
     return (
-      <div style={{width: this.state.width, height: this.state.height, backgroundColor: 'rgba(0,0,255,0)'}}>
+      <div className={style.root} style={{width: this.state.width, height: this.state.height, backgroundColor: 'rgba(0,0,255,0)'}}>
         <div style={
           {
             width: (this.state.width - this.state.sliderHandle.width),

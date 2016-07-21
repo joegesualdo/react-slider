@@ -43,7 +43,7 @@ $ npm run build
 ```
 
 ## Related
-- [react-range-slider](https://github.com/joegesualdo/react-slider) - A slider for selecting a range (min & max).
+- [react-range-slider](https://github.com/joegesualdo/react-range-slider) - A slider for selecting a range (min & max).
 
 ## License
 MIT © [Joe Gesualdo]()
